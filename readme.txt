@@ -1,1 +1,1 @@
-XDDD
+Write these commands to the console (one by one)
