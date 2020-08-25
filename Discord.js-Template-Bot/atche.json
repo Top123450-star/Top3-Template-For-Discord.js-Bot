@@ -1,0 +1,13 @@
+{
+    "name": "Discord.JS-Template",
+    "author": "Top3",
+    "license": "MIT",
+    "version": {
+        "@versions": {
+            "discord.js": "12.0.2",
+            "nodejs": "---",
+            "commandHandler": "1.0.0",
+            "eventHanler": "1.0.0"
+        }
+    }
+}
